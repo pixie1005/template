@@ -1,3 +1,15 @@
 p {
 	color: orange;
 }
+
+.github {
+	background-image: url("github.png");
+	position: absolute;
+	left: 885px;
+	top: 533px;
+	width: 39px;
+	height: 35px;
+	z-index: 18;
+	box-shadow: 3px 0 7px rgba(0,0,0,.35);
+}
+
